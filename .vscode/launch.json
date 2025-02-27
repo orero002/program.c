@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/OneDrive/Desktop/New folder (2)",
-      "program": "c:/Users/Admin/OneDrive/Desktop/New folder (2)/build/Debug/outDebug",
+      "cwd": "c:/1.2 notes/c++ programs/C++ Programs",
+      "program": "c:/1.2 notes/c++ programs/C++ Programs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
